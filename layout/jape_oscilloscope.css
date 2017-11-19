@@ -1,0 +1,25 @@
+.case_color {
+	background-color: #ADD8E6;
+}
+
+.onair_led {
+	font: 16 bold;
+}
+
+.onair_led:active {
+	color: #228b22;
+}
+
+.inout_label {
+	font: 16 bold;
+}
+
+.big_label {
+	font: 48 bold;
+}
+
+.plot_area {
+	background-color: #fdfdfd;
+	border: 1px solid #000000;
+	color: #228b22;
+}

@@ -1,0 +1,19 @@
+.case_color {
+	background-color: #ffa300;
+}
+
+.onair_led {
+	font: 16 bold;
+}
+
+.onair_led:active {
+	color: #228b22;
+}
+
+.inout_label {
+	font: 16 bold;
+}
+
+.big_label {
+	font: 48 bold;
+}

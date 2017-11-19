@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/">
+    <file>layout/jape_oscilloscope.glade</file>
+    <file>layout/jape_oscilloscope.css</file>
+    <file>layout/../img/jape_oscilloscope_icon.png</file>
+  </gresource>
+</gresources>

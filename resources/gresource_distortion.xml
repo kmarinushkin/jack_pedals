@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/">
+    <file>layout/jape_distortion.glade</file>
+    <file>layout/jape_distortion.css</file>
+    <file>layout/../img/jape_distortion_icon.png</file>
+    <file>img/jape_distortion_label.png</file>
+  </gresource>
+</gresources>

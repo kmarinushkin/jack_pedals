@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/">
+    <file>layout/jape_base.glade</file>
+    <file>layout/jape_base.css</file>
+  </gresource>
+</gresources>
